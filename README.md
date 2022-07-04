@@ -14,25 +14,25 @@ The main purpose of the project was to use PySpark to perform the ETL process to
 
 Total number of vine reviews were 613 whereas, total non-vine reviews were 64968.
 
-![total_vine](Image_analysis/total_vine.png")
+![total_vine](Image_analysis/total_vine.png)
 
-![total_non_vine](Image_analysis/total_non_vine.png")
+![total_non_vine](Image_analysis/total_non_vine.png)
 
 -   **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
 Total number of 5-star vine reviews were 222 whereas, total non-vine 5-star reviews were 30543.
 
-![total_vine_5](Image_analysis/total_vine_5.png")
+![total_vine_5](Image_analysis/total_vine_5.png)
 
-![total_non_vine_5](Image_analysis/total_non_vine_5.png")
+![total_non_vine_5](Image_analysis/total_non_vine_5.png)
 
 -   **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
 Total percentage of 5-star vine reviews were approx 36% whereas, total percentage of non-vine 5-star reviews were approx 47%.
 
-![total_vine_per](Image_analysis/total_vine_per.png")
+![total_vine_per](Image_analysis/total_vine_per.png)
 
-![total_non_vine_per](Image_analysis/total_non_vine_per.png")
+![total_non_vine_per](Image_analysis/total_non_vine_per.png)
 
 ## Summary
 
